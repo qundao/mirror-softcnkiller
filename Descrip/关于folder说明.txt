@@ -117,6 +117,7 @@
 \SeagullWallpaper\		海鸥壁纸
 \SmallTreesPDF\			小树PDF
 \SmallTreePDF\			小树PDF
+\SmartInput\			智能云输入法
 \SmartLook\			万象预览
 \SmartWBInput\			智能云五笔
 \SWebHelp\			极速搜索相关组件
