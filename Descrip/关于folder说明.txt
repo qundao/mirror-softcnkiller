@@ -59,6 +59,7 @@
 \iPDF\				云上PDF
 \itv\				i搜影
 \idesk\				iDesk助手
+\izip\				iZip
 \JGBYPC\			激光捕鱼广告	
 \JiJianFormwork\		极简办公模板
 \JiSuSearch\			极速搜索
