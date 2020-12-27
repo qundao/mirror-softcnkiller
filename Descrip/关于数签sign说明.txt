@@ -81,7 +81,8 @@ Guangdong Fengqi Technology				高速下载器
 舟山丙火网络科技	小浣熊WiFi、蜂鸟看图
 珠海市内维淼科技	AlphaSE Chrome安全浏览器
 浙江自贸区耀光网络科技	  风云压缩、风影看图王
-Anhui Aiqi Network Technology			iZip
+Anhui Aiqi Network Technology			爱压缩（iZip）
+Beijing AoLanDe Information Technology			云动PDF
 Beijing Funshion Online	  			风行视频加速器
 Beijing Jiexun Cloud Network Technology		LookEverything、天喻音频转换器
 Beijing HuiZhuGongYing Technology Development	飞压压缩
@@ -103,6 +104,7 @@ Kunshan Longbo Information Technology		快捷锁屏
 Kashi Guangxun Network Technology		伪office365
 Ma'anshan Qisi Network Technology		预立闹钟
 Nanjing BaiZeyou Network Technology		星星看图
+Nanjing Yingxing Network			小美尺码
 Nanjing Wenle Network Technology		炫彩便签
 Nanchang Xianyang Network Technology		水牛日历（buffaloCalendar）
 Qingdao Kunru Information Technology		蓝梦记事

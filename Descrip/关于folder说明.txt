@@ -33,6 +33,7 @@
 \ENotepad\			简易记事本组件目录	
 \ExData\			简易记事本组件目录
 \ENote\				简易记事本
+\fastpdf\			云动PDF
 \faststart\			FastStart
 \fengchaobizhi\			蜂巢壁纸
 \FileAssistor\			FileAssistor
@@ -101,6 +102,7 @@
 \OriginPDFReader\		起点PDF阅读器
 \OrangeZip\		OrangeZip
 \PandPdf\			熊猫PDF
+\PicView\			星星看图
 \PPTMoudle\			PPT模板大师
 \ptsandf\			PPT模板大师广告
 \Public\Documents\		通杀微信双开各版本
@@ -116,6 +118,7 @@
 \Roaming\Convert\		迅读PDF大师组件
 \SaiTaoTao\			赛淘淘购物助手
 \SeagullWallpaper\		海鸥壁纸
+\SizeAssistant\		小美尺码
 \SmallTreesPDF\			小树PDF
 \SmallTreePDF\			小树PDF
 \SmartInput\			智能云输入法
