@@ -4,6 +4,7 @@
 \6789Zip\			6789压缩
 \AntZip\ 			蚂蚁压缩
 \Avatder\			风行视频加速器
+\baitushow\			百图秀
 \bizhi\ 			小鸟壁纸
 \BirdWallpaper\ 		小鸟壁纸
 \Blue Eye Master\		蓝光护眼
