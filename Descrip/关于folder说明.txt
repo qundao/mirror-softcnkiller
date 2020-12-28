@@ -55,6 +55,7 @@
 \HaloDesktop\			海螺桌面
 \HaoKanWallPaper\		好看壁纸
 \HaoKnWallPaper\		好看壁纸
+\HaoTuKanKan\		好图看看		
 \HKWallPaper\			好看壁纸
 \hdwwp\				溜溜壁纸（66壁纸）
 \InkImg\			水墨看图
