@@ -62,7 +62,7 @@
 \iPDF\				云上PDF
 \itv\				i搜影
 \idesk\				iDesk助手
-\izip\				iZip
+\izip\				爱压缩（iZip）
 \JGBYPC\			激光捕鱼广告	
 \JiJianFormwork\		极简办公模板
 \JiSuSearch\			极速搜索
@@ -76,6 +76,7 @@
 \快压\				快压
 \快快压缩\			快快压缩
 \KeepHelp\			简易记事本组件目录
+\KingMemo\			KingMemo
 \KJFileLocker\			快捷文件锁
 \kjminipage\			快捷文件锁广告目录
 \kjplug\			快捷文件锁组件
@@ -113,6 +114,7 @@
 \QiKe\				奇客PDF
 \QiKeZip\			奇客压缩
 \QiaoZip\			巧压
+\QiEImage\			企鹅高清看图
 \QingFengPicture\		青蜂看图
 \QingYaZip\			轻压压缩
 \Roaming\bzzs\		壁纸助手
