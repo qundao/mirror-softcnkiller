@@ -99,6 +99,7 @@
 \MobileEmuMaster\		手机模拟大师
 \MoMiao\			魔喵壁纸
 \MiaoRar\			秒压
+\MiaoRar2\			秒压
 \Microsoft\Windows\Templates\	通杀常见的dllhost.exe启动的计划任务广告程序
 \NarcissusWiFi\			水仙wifi
 \NewNotebook\			新记事本
