@@ -10,6 +10,7 @@
 \Blue Eye Master\		蓝光护眼
 \BarleyShop\			麦家购物助手
 \buffaloCalendar\		水牛日历
+\ButflyImage\			蝴蝶看图
 \BXAudioConverter\		百讯音频转换器
 \bzzhushou\			壁纸助手
 \ColorfulPicture\		七彩看图
@@ -46,6 +47,8 @@
 \FeiSuZip\			飞速压缩
 \FibreFlowerWifi\		麻花wifi
 \FeiSuPDF\			飞速PDF
+\FsZip\			FsZip
+\FtpySer\			未知广告组件
 \FuLiQuan\			福利券
 \fypdfr\			简易PDF
 \GreenZip\			GreenZip
@@ -94,12 +97,12 @@
 \MFileMgr\			M-文件管理器
 \mfmminipage\			M-文件管理器广告组件
 \MGWallpaper\			蘑菇壁纸
+\MiaoRar\			秒压
+\MiaoRar2\			秒压
 \MicroCool\			微酷PDF
 \MkCool\			微酷PDF
 \MobileEmuMaster\		手机模拟大师
 \MoMiao\			魔喵壁纸
-\MiaoRar\			秒压
-\MiaoRar2\			秒压
 \Microsoft\Windows\Templates\	通杀常见的dllhost.exe启动的计划任务广告程序
 \NarcissusWiFi\			水仙wifi
 \NewNotebook\			新记事本
@@ -118,9 +121,11 @@
 \QiKeZip\			奇客压缩
 \QiaoZip\			巧压
 \QiEImage\			企鹅高清看图
+\QkeImage\			企鹅高清看图
 \QingFengPicture\		青蜂看图
 \QingJiePdf\			轻捷PDF
 \QingYaZip\			轻压压缩
+\QWallpaper\			Q版壁纸
 \ReadWell\			好好看书
 \Roaming\bzzs\			壁纸助手
 \Roaming\tx\			Roaming目录下的奇客PDF转换器
@@ -143,9 +148,11 @@
 \SuGouShop\			速购助手
 \SWebDrive\			高效搜索相关组件
 \SwiftImage\			蜂鸟看图
+\SwiftImg\			蜂鸟看图
 \tinybird\			小鸟壁纸
 \TSBrowser\			极速浏览器
 \TaoShopAssistant\		淘购助手
+\TuJiTV\			兔几直播
 \vdesk\				小薇桌面
 \WanMeiZip\			完美压缩
 \WanNengZip\			万能压缩
