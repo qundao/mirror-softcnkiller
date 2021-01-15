@@ -3,6 +3,7 @@
 \66bizhi\			溜溜壁纸（66壁纸）
 \6789Zip\			6789压缩
 \AntZip\ 			蚂蚁压缩
+\AppInsghtesly\		广告程序下载目录
 \Avatder\			风行视频加速器
 \baitushow\			百图秀
 \bizhi\ 			小鸟壁纸
@@ -47,7 +48,7 @@
 \FeiSuZip\			飞速压缩
 \FibreFlowerWifi\		麻花wifi
 \FeiSuPDF\			飞速PDF
-\FsZip\			FsZip
+\FsZip\				FsZip
 \FtpySer\			未知广告组件
 \FuLiQuan\			福利券
 \fypdfr\			简易PDF
@@ -60,6 +61,7 @@
 \HaoKnWallPaper\		好看壁纸
 \HaoTuKanKan\			好图看看		
 \HKWallPaper\			好看壁纸
+\HttpSvrt\			广告程序目录
 \hdwwp\				溜溜壁纸（66壁纸）
 \InkImg\			水墨看图
 \iPDF\				云上PDF

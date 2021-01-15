@@ -119,6 +119,7 @@ Shang Hai Zi Wei Wang Luo Ke Ji			快闪压缩、风云PDF、MagicToolkit
 Shang Hai Jing Ke Wang Luo Ke Ji		游戏盒子
 Shanghai zaimeng information technology		365看图
 Shanghai Hewei Information Technology		桌面壁纸
+Shanghai Lezhan Information Technology		FsZip
 Shanghai Mengge Ecommerce			FileAssistor
 Shanghai Quhe Network Technology		蓝光护眼大师
 Shanghai Yicen Network Technology		极品PDF转换器
