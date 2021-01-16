@@ -18,10 +18,11 @@ Guangdong Fengqi Technology				高速下载器
 沧州句号网络科技	GreenZip、CloudZip
 沧州微酷网络科技	微酷PDF（MicroCool）
 重庆趣探科技		易简日历、OrangeZip
-重庆市槐华商务咨询	KingMemo
+重庆市槐华商务咨询	KingMemo、Q版壁纸
 福建智度科技		秒压
 风尚云起文化传媒	6789压缩、云记事本
 佛山市鑫卓讯软件科技	123加速浏览器
+广州华多网络科技	未知广告程序
 广州启创信息技术	超压
 广州天行客网络科技	云骑士、韩博士、黑鲨、小鱼、小熊、小白等一系列一键重装工具
 合肥云表信息科技	表情助手、Chrome安全浏览器
@@ -53,7 +54,7 @@ Guangdong Fengqi Technology				高速下载器
 上海顿多网络科技	多顿看图
 上海影双网络科技	ScreenOCR、快速搜索（fastsearch）、miniwifi、蜂巢壁纸、鼠标右键菜单管理
 上海诺韦网络科技	香蕉悦读
-上海马齿苋科技	鲨鱼看图
+上海马齿苋科技		鲨鱼看图
 上饶市风云网络科技	newnote、faststart、极简便签
 四川悠闲的熊猫网络科技	淘购助手、起点PDF、迷你看图王、水仙wifi、起点PDF转换器、精简压缩
 四川齐鑫网络科技	蝴蝶看图
@@ -66,7 +67,7 @@ Guangdong Fengqi Technology				高速下载器
 苏州奇客乐思网络科技	雷霆压缩
 甜瓜（上海）信息技术	花猫斗图
 天津速读科技		迅读PDF大师
-天津迅读科技		迅读PDF大师
+天津迅读科技		迅读PDF大师、易极数据恢复
 天津杏仁桉科技		蜂火精灵模拟器、密齿私人文件柜、极风搜索
 武汉苍牙网络科技	一米压缩、水墨看图
 武汉金玉时网络科技	如意便签
@@ -119,6 +120,7 @@ Shang Hai Zi Wei Wang Luo Ke Ji			快闪压缩、风云PDF、MagicToolkit
 Shang Hai Jing Ke Wang Luo Ke Ji		游戏盒子
 Shanghai zaimeng information technology		365看图
 Shanghai Hewei Information Technology		桌面壁纸
+Shanghai Lezhan Information Technology		FsZip
 Shanghai Mengge Ecommerce			FileAssistor
 Shanghai Quhe Network Technology		蓝光护眼大师
 Shanghai Yicen Network Technology		极品PDF转换器
