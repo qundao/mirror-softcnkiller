@@ -10,6 +10,7 @@
 \Blue Eye Master\		蓝光护眼
 \BarleyShop\			麦家购物助手
 \buffaloCalendar\		水牛日历
+\ButflyImage\		蝴蝶看图
 \BXAudioConverter\		百讯音频转换器
 \bzzhushou\			壁纸助手
 \ColorfulPicture\		七彩看图
@@ -63,6 +64,7 @@
 \itv\				i搜影
 \idesk\				iDesk助手
 \izip\				爱压缩（iZip）
+\JfSearch\			极风搜索
 \JGBYPC\			激光捕鱼广告	
 \JiJianFormwork\		极简办公模板
 \JiSuSearch\			极速搜索
@@ -118,6 +120,7 @@
 \QiKeZip\			奇客压缩
 \QiaoZip\			巧压
 \QiEImage\			企鹅高清看图
+\QkeImage\			企鹅高清看图
 \QingFengPicture\		青蜂看图
 \QingJiePdf\			轻捷PDF
 \QingYaZip\			轻压压缩
@@ -127,6 +130,7 @@
 \Roaming\Convert\		迅读PDF大师组件
 \SaiTaoTao\			赛淘淘购物助手
 \SeagullWallpaper\		海鸥壁纸
+\SharkPhoto\		鲨鱼看图
 \SizeAssistant\			小美尺码
 \SmallTreesPDF\			小树PDF
 \SmallTreePDF\			小树PDF
@@ -142,8 +146,10 @@
 \StarCloudZip\			星云压缩
 \SuGouShop\			速购助手
 \SWebDrive\			高效搜索相关组件
+\SwiftImg\			蜂鸟看图
 \SwiftImage\			蜂鸟看图
 \tinybird\			小鸟壁纸
+\TuJiTV\			兔几直播
 \TSBrowser\			极速浏览器
 \TaoShopAssistant\		淘购助手
 \vdesk\				小薇桌面
