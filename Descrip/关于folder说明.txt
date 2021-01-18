@@ -64,6 +64,7 @@
 \HttpSvrt\			广告程序目录
 \hdwwp\				溜溜壁纸（66壁纸）
 \InkImg\			水墨看图
+\iEyePicture\			iEyePicture
 \iPDF\				云上PDF
 \itv\				i搜影
 \idesk\				iDesk助手
@@ -114,6 +115,7 @@
 \OriginPDFReader\		起点PDF阅读器
 \OrangeZip\			OrangeZip
 \PandPdf\			熊猫PDF
+\PDFConverter\			PDF转换器
 \PicView\			星星看图
 \PPTMoudle\			PPT模板大师
 \ptsandf\			PPT模板大师广告
