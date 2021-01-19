@@ -1,6 +1,7 @@
 Anhui Shabake Network Technology	高速下载器
 Beijing Yundongshidai Network Technology	高速下载器
 Shanghai XuSong investment partnership Enterprise	高速下载器
+Tuling Times Information Technology			高速下载器
 Guangdong Fengqi Technology				高速下载器
 上海剑姬网络科技	高速下载器
 重庆天极魅客科技	高速下载器
@@ -128,7 +129,7 @@ Shanghai Yingshuang Network Technology		同上海影双网络科技
 Shanghai Yangtu Baozhen Network Technology	诗词快查（poemDC）
 Shanghai Youwo Information Technology		游窝盒子
 Sichuan Ouding Software Technology		海螺看图、贝壳wifi、轻压压缩、福利券（FuLiQuan）
-Sichuan Weima Network				优享wifi、青蜂看图、折购助手
+Sichuan Weima Network				优享wifi、青蜂看图、折购助手、元气壁纸
 Sichuan Zhiling Times Network Technology	值购助手、新速压缩、坚果wifi
 Sichuan Zhiling Shidai Network Technology	七彩看图、海鸥壁纸
 Shenzhen Youyou Technology			6玩游戏大厅

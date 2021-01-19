@@ -160,6 +160,7 @@
 \TSBrowser\			极速浏览器
 \TaoShopAssistant\		淘购助手
 \vdesk\				小薇桌面
+\vitalwallpaper\			元气壁纸
 \WanMeiZip\			完美压缩
 \WanNengZip\			万能压缩
 \WanPicture\			万能看图王
