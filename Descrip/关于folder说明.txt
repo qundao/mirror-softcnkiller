@@ -79,6 +79,7 @@
 \JPPDFConvert\			极品PDF转换器
 \JpPicture\			极品看图王
 \JTWallpaper\			焦糖壁纸
+\JuzipClock\			JuzipClock
 \k52zip\			52好压
 \快压\				快压
 \快快压缩\			快快压缩
