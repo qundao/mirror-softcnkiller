@@ -52,6 +52,7 @@
 \FtpySer\			未知广告组件
 \FuLiQuan\			福利券
 \fypdfr\			简易PDF
+\FYScreenshot\		FYScreenshot
 \GreenZip\			GreenZip
 \hylite\			火萤视频桌面
 \HYFastSide\			火萤视频桌面组件

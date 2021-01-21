@@ -75,6 +75,7 @@ Guangdong Fengqi Technology				高速下载器
 武汉同进科技		青竹选色器、随心日历
 武汉巨博优科技		上海展盟广告
 武汉凯佳奥科技		今日记账
+武汉吾知恋教育咨询		FYScreenshot
 武汉众合互娱网络科技	麻花日历
 武汉续达科技		趣压缩（Amusingzip）
 武汉鑫博伟科技		优易贴、明玉动态截屏
@@ -95,7 +96,7 @@ Chongqing Aibeibei Technology 			飞米压缩
 Chongqing Xudeng Instrument			EvaPicture
 Chongqing Chenyixuan Technology			ResManagerRes、StarEditor
 Chongqing Jiuqu Network Technology		Explorer++、吉吉资源管理器、GifRecord
-Chongqing Minjue Science and Technology		I-FileManager
+Chongqing Minjue Science and Technology		I-FileManager、JuzipClock
 Fashion cloud culture media			6789zip
 Fuzhou Zhongyi culture media			麻花wifi、袖珍壁纸、速购助手、星速看图王、飞速压缩
 He Fei Yun Biao					极速输入法GsoInput、云上PDF、云上压缩、小象记事本、小薇桌面、魔方美图
