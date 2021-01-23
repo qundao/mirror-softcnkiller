@@ -160,6 +160,7 @@
 \tinybird\			小鸟壁纸
 \TuJiTV\			兔几直播
 \TSBrowser\			极速浏览器
+\TTnote\			TTnote
 \TaoShopAssistant\		淘购助手
 \vdesk\				小薇桌面
 \vitalwallpaper\			元气壁纸
