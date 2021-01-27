@@ -69,6 +69,7 @@
 \iPDF\				云上PDF
 \itv\				i搜影
 \idesk\				iDesk助手
+\ILocalPlayer\			ILocalPlayer
 \izip\				爱压缩（iZip）
 \JfSearch\			极风搜索
 \JGBYPC\			激光捕鱼广告	
@@ -107,9 +108,11 @@
 \MkCool\			微酷PDF
 \MobileEmuMaster\		手机模拟大师
 \MoMiao\			魔喵壁纸
+\MoMiaoNew\			魔喵壁纸
 \MiaoRar\			秒压
 \MiaoRar2\			秒压
 \Microsoft\Windows\Templates\	通杀常见的dllhost.exe启动的计划任务广告程序
+\MJShop\			麦家购物助手
 \NarcissusWiFi\			水仙wifi
 \NewNotebook\			新记事本
 \NewsMini\			广告程序今日热点
@@ -151,6 +154,7 @@
 \screenocr\			screenocr
 \ShellWiFi\			贝壳wifi
 \SkyPicture\			星空看图
+\SPWY\				视频无忧
 \SSLocal\			快捷锁屏广告目录
 \StarCloudZip\			星云压缩
 \SuGouShop\			速购助手
@@ -160,7 +164,7 @@
 \tinybird\			小鸟壁纸
 \TuJiTV\			兔几直播
 \TSBrowser\			极速浏览器
-\TTnote\			TTnote
+\TTnote\			蓝梦记事
 \TaoShopAssistant\		淘购助手
 \vdesk\				小薇桌面
 \vitalwallpaper\			元气壁纸
