@@ -1,6 +1,7 @@
 \123jiasu\ 			123加速浏览器
 \360bizhi\ 			360壁纸
 \66bizhi\			溜溜壁纸（66壁纸）
+\6789GameBox\			6789游戏盒子
 \6789Zip\			6789压缩
 \AntZip\ 			蚂蚁压缩
 \AppInsghtesly\		广告程序下载目录
@@ -20,6 +21,7 @@
 \CzPolicySvc\			今日看点、热点资讯
 \CherryBlossoms\		高效搜索广告目录
 \CalfWallpaper\			小象壁纸
+\ChangLianWifi\			畅连wifi
 \CloudZip\			CloudZip
 \ConchPicture\			海螺看图
 \ConchZip\			贝壳压缩
@@ -40,6 +42,7 @@
 \faststart\			FastStart
 \fengchaobizhi\			蜂巢壁纸
 \FileAssistor\			FileAssistor
+\FileSearch\			文件搜索
 \flysvr\			火萤视频桌面组件
 \FlowerShopAssistant\		花购助手
 \fslocal\			极速搜索广告目录
@@ -82,6 +85,7 @@
 \JpPicture\			极品看图王
 \JTWallpaper\			焦糖壁纸
 \JuzipClock\			JuzipClock
+\鲸彩壁纸\
 \k52zip\			52好压
 \快压\				快压
 \快快压缩\			快快压缩
@@ -100,6 +104,7 @@
 \LittlePicture\			迷你看图王
 \Local\finder\			光速搜索
 \Local\WeiDuan\			游戏微端目录
+\雷神压缩\
 \MasterPDF\			迅读PDF大师
 \MFileMgr\			M-文件管理器
 \mfmminipage\			M-文件管理器广告组件
@@ -114,6 +119,7 @@
 \Microsoft\Windows\Templates\	通杀常见的dllhost.exe启动的计划任务广告程序
 \MJShop\			麦家购物助手
 \NarcissusWiFi\			水仙wifi
+\NestWiFi\			蜂巢Wi-Fi
 \NewNotebook\			新记事本
 \NewsMini\			广告程序今日热点
 \NiuXiaoQuan\			牛小券
@@ -142,7 +148,8 @@
 \Roaming\Convert\		迅读PDF大师组件
 \SaiTaoTao\			赛淘淘购物助手
 \SeagullWallpaper\		海鸥壁纸
-\SharkPhoto\		鲨鱼看图
+\search616\			文件搜索
+\SharkPhoto\			鲨鱼看图
 \SizeAssistant\			小美尺码
 \SmallTreesPDF\			小树PDF
 \SmallTreePDF\			小树PDF

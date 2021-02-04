@@ -18,7 +18,7 @@ Guangdong Fengqi Technology				高速下载器
 成都游韧天下网络科技	云记事本（YunTXT）
 沧州战斧网络科技	飞速PDF、微压
 沧州句号网络科技	GreenZip、CloudZip
-沧州微酷网络科技	微酷PDF（MicroCool）
+沧州微酷网络科技	微酷PDF（MicroCool）、畅连wifi
 重庆趣探科技		易简日历、OrangeZip
 重庆市槐华商务咨询	KingMemo、Q版壁纸
 福建智度科技		秒压
@@ -72,7 +72,7 @@ Guangdong Fengqi Technology				高速下载器
 天津速读科技		迅读PDF大师
 天津迅读科技		迅读PDF大师、易极数据恢复
 天津杏仁桉科技		蜂火精灵模拟器、密齿私人文件柜、极风搜索
-武汉苍牙网络科技	一米压缩、水墨看图
+武汉苍牙网络科技	一米压缩、水墨看图、蜂巢Wi-Fi
 武汉金玉时网络科技	如意便签
 武汉同进科技		青竹选色器、随心日历
 武汉巨博优科技		上海展盟广告
@@ -100,6 +100,7 @@ Chongqing Chenyixuan Technology			ResManagerRes、StarEditor
 Chongqing Jiuqu Network Technology		Explorer++、吉吉资源管理器、GifRecord
 Chongqing Minjue Science and Technology		I-FileManager、JuzipClock
 Fashion cloud culture media			6789zip
+Fashion Cloud Culture Media			6789游戏盒子
 Fuzhou Zhongyi culture media			麻花wifi、袖珍壁纸、速购助手、星速看图王、飞速压缩
 He Fei Yun Biao					极速输入法GsoInput、云上PDF、云上压缩、小象记事本、小薇桌面、魔方美图、视频无忧
 Hefei Yunbiao					同上。	
@@ -114,7 +115,7 @@ Nanjing BaiZeyou Network Technology		星星看图
 Nanjing Yingxing Network			小美尺码
 Nanjing Wenle Network Technology		炫彩便签
 Nanchang Xianyang Network Technology		水牛日历（buffaloCalendar）
-Qingdao Kunru Information Technology		蓝梦记事
+Qingdao Kunru Information Technology		蓝梦记事、飞鱼笔记
 Shanghai Doukaijing Network Technology		全能看图、网购优惠券客户端
 Shanghai DingXuan Technology 			Eyes保护师、水印微管家、便携记事本（wdbbook）、KangImage、smallerpdf
 Shanghai Oriental Webcasting			东方输入法、万能五笔、万能看图王、万能压缩、万能游戏盒、花购助手、兔几直播、焦糖壁纸、香草wifi、快速网游加速器、万能PDF阅读器
@@ -123,6 +124,7 @@ Shanghai Youbu Network Technology		小熊日历
 Shang Hai Zi Wei Wang Luo Ke Ji			快闪压缩、风云PDF、MagicToolkit
 Shang Hai Jing Ke Wang Luo Ke Ji		游戏盒子
 Shanghai zaimeng information technology		365看图
+Shanghai Guosui Network Technology		文件搜索
 Shanghai Hewei Information Technology		桌面壁纸
 Shanghai Lezhan Information Technology		FsZip
 Shanghai Mengge Ecommerce			FileAssistor
