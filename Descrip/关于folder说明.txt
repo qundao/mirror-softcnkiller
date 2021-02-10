@@ -26,12 +26,14 @@
 \ConchPicture\			海螺看图
 \ConchZip\			贝壳压缩
 \ConhZip\			贝壳压缩
+\DDesktopTools\			点点桌面
 \DelphinWiFi\			海豚wifi
 \DMOPELL\			极速搜索相关组件
 \DouMai\			豆麦笔记
 \DBGHelp\			快捷锁屏相关组件
 \DandelionWifi\			蒲公英wifi
 \ElephantPDF\			大象PDF
+\EsayDrawing\			EsayDrawing
 \eyesprite\			护眼精灵
 \EfficientSearch\		高效搜索
 \EMTree\			简易记事本广告目录
