@@ -72,6 +72,7 @@
 \InkImg\			水墨看图
 \iEyePicture\			iEyePicture
 \iPDF\				云上PDF
+\ITextEditor\			ITextEditor
 \itv\				i搜影
 \idesk\				iDesk助手
 \ILocalPlayer\			ILocalPlayer
@@ -158,6 +159,7 @@
 \SmartInput\			智能云输入法
 \SmartLook\			万象预览
 \SmartWBInput\			智能云五笔
+\SnowFalling\			SnowFalling
 \SWebHelp\			极速搜索相关组件
 \ScreenSaver\			快捷锁屏
 \screenocr\			screenocr

@@ -21,6 +21,7 @@ Guangdong Fengqi Technology				高速下载器
 沧州微酷网络科技	微酷PDF（MicroCool）、畅连wifi
 重庆趣探科技		易简日历、OrangeZip
 重庆市槐华商务咨询	KingMemo、Q版壁纸
+重庆旭登仪器仪表	ITextEditor
 福建智度科技		秒压
 风尚云起文化传媒	6789压缩、云记事本
 佛山市鑫卓讯软件科技	123加速浏览器
@@ -31,7 +32,8 @@ Guangdong Fengqi Technology				高速下载器
 合肥两谢网络信息	StarWifi、完美看图、完美压缩	
 杭州九天网络信息技术	豆麦笔记
 杭州凤侠网络科技	游侠日历
-杭州至流科技		奇客PDF转换器
+杭州至流科技		奇客PDF转换器	
+湖北翰辉企业管理咨询	SnowFalling
 黄冈腾瑞网络科技中心	每日壁纸
 淮安成思科技		熊猫PDF、贝壳压缩、七彩wifi
 海南乐鱼互动网络科技	乐鱼酷搜
