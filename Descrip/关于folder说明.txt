@@ -1,5 +1,6 @@
 \123jiasu\ 			123加速浏览器
 \360bizhi\ 			360壁纸
+\55Viewer\			55Viewer
 \66bizhi\			溜溜壁纸（66壁纸）
 \6789GameBox\			6789游戏盒子
 \6789Zip\			6789压缩
