@@ -210,3 +210,4 @@
 \ZhongXiangWiFi\		众享免费wifi
 \ZheGouZhuShou\			折购助手
 \zmassist\			广告程序目录
+\zShut\			Juzip定时关机
