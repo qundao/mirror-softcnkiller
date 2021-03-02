@@ -27,6 +27,7 @@
 \ConchPicture\			海螺看图
 \ConchZip\			贝壳压缩
 \ConhZip\			贝壳压缩
+\DaydayAlarm\			天天闹钟
 \DDesktopTools\			点点桌面
 \DelphinWiFi\			海豚wifi
 \DMOPELL\			极速搜索相关组件
@@ -89,7 +90,7 @@
 \JpPicture\			极品看图王
 \JTWallpaper\			焦糖壁纸
 \JuzipClock\			JuzipClock
-\鲸彩壁纸\
+\鲸彩壁纸\			鲸彩壁纸
 \k52zip\			52好压
 \快压\				快压
 \快快压缩\			快快压缩
@@ -108,7 +109,7 @@
 \LittlePicture\			迷你看图王
 \Local\finder\			光速搜索
 \Local\WeiDuan\			游戏微端目录
-\雷神压缩\
+\雷神压缩\			雷神压缩
 \MasterPDF\			迅读PDF大师
 \MFileMgr\			M-文件管理器
 \mfmminipage\			M-文件管理器广告组件
