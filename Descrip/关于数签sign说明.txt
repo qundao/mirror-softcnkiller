@@ -101,6 +101,7 @@ Beijing CloudStory Inc				桌面日历
 Chongqing Aibeibei Technology 			飞米压缩
 Chongqing Xudeng Instrument			EvaPicture
 Chongqing Chenyixuan Technology			ResManagerRes、StarEditor
+Chongqing Jinghua Xulian Technology			极客压缩
 Chongqing Jiuqu Network Technology		Explorer++、吉吉资源管理器、GifRecord
 Chongqing Minjue Science and Technology		I-FileManager、JuzipClock
 Fashion cloud culture media			6789zip
