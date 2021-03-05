@@ -192,6 +192,7 @@
 \WnPDFReader\			万能PDF阅读器
 \WBService\			简易记事本广告目录
 \WorthyShop\			值购助手
+\WxOpen\			微信多开盒
 \xiaoyu\			小鱼便签
 \xinnote\			小新记事本
 \XinSuZip\			新速压缩
@@ -212,4 +213,4 @@
 \ZhongXiangWiFi\		众享免费wifi
 \ZheGouZhuShou\			折购助手
 \zmassist\			广告程序目录
-\zShut\			Juzip定时关机
+\zShut\				Juzip定时关机
