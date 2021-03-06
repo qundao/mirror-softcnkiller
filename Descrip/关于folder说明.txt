@@ -133,6 +133,7 @@
 \OrangeZip\			OrangeZip
 \PandPdf\			熊猫PDF
 \PDFConverter\			PDF转换器
+\PGYWifi\			蒲公英wifi
 \PicView\			星星看图
 \PPTMoudle\			PPT模板大师
 \ptsandf\			PPT模板大师广告
@@ -186,6 +187,7 @@
 \WanNengZip\			万能压缩
 \WanPicture\			万能看图王
 \WanMeiSeeImage\		完美看图
+\weiku\			微酷PDF
 \WellHost\			好好看书组件
 \WIFIInspector\			洋葱wifi
 \WindowMergecy\			高效搜索组件
