@@ -34,6 +34,7 @@
 \DouMai\			豆麦笔记
 \DBGHelp\			快捷锁屏相关组件
 \DandelionWifi\			蒲公英wifi
+\DsGameBox\			袋鼠游戏盒子
 \ElephantPDF\			大象PDF
 \EsayDrawing\			EsayDrawing
 \eyesprite\			护眼精灵
