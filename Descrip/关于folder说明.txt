@@ -85,6 +85,7 @@
 \JGBYPC\			激光捕鱼广告	
 \JiJianFormwork\		极简办公模板
 \JiSuSearch\			极速搜索
+\JikePDFConverter\		即刻PDF转换器
 \JiKePDFReader\			即刻PDF阅读器
 \JinSPDFReader\			金速PDF阅读器
 \JingJianZip\			精简压缩
@@ -117,6 +118,7 @@
 \mfmminipage\			M-文件管理器广告组件
 \MGWallpaper\			蘑菇壁纸
 \MicroCool\			微酷PDF
+\MiniInpaint\			水印微管家
 \MkCool\			微酷PDF
 \MobileEmuMaster\		手机模拟大师
 \MoMiao\			魔喵壁纸
@@ -129,6 +131,7 @@
 \NestWiFi\			蜂巢Wi-Fi
 \NewNotebook\			新记事本
 \NewsMini\			广告程序今日热点
+\newsminin\			广告程序今日热点
 \NiuXiaoQuan\			牛小券
 \OriginPDFReader\		起点PDF阅读器
 \OrangeZip\			OrangeZip
@@ -175,8 +178,8 @@
 \StarCloudZip\			星云压缩
 \SuGouShop\			速购助手
 \SWebDrive\			高效搜索相关组件
-\SwiftImg\			蜂鸟看图
 \SwiftImage\			蜂鸟看图
+\SwiftImg\			蜂鸟看图
 \tinybird\			小鸟壁纸
 \TuJiTV\			兔几直播
 \TSBrowser\			极速浏览器
@@ -208,6 +211,7 @@
 \YunTXT\			云记事本
 \YunMiniInfo\			云记事本广告组件
 \YENote\			优易贴
+\YZBiZhi\			柚子壁纸
 \YZWallpaper\			柚子壁纸
 \ZPDFEdit\			转转大师PDF编辑器
 \ZZDS\				转转大师PDF转Word
