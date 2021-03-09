@@ -74,6 +74,7 @@
 \HttpSvrt\			广告程序目录
 \hdwwp\				溜溜壁纸（66壁纸）
 \InkImg\			水墨看图
+\IBoFang\			IBoFang
 \iEyePicture\			iEyePicture
 \iPDF\				云上PDF
 \ITextEditor\			ITextEditor
