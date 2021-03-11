@@ -7,6 +7,7 @@
 \AntZip\ 			蚂蚁压缩
 \AppInsghtesly\		广告程序下载目录
 \Avatder\			风行视频加速器
+\BaimaPdf\			白马PDF
 \baitushow\			百图秀
 \bizhi\ 			小鸟壁纸
 \BirdWallpaper\ 		小鸟壁纸
@@ -139,6 +140,7 @@
 \PandPdf\			熊猫PDF
 \PDFConverter\			PDF转换器
 \PGYWifi\			蒲公英wifi
+\photoviewer\			ABC看图
 \PicView\			星星看图
 \PPTMoudle\			PPT模板大师
 \ptsandf\			PPT模板大师广告
