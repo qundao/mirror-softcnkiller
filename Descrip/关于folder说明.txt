@@ -115,6 +115,7 @@
 \Local\finder\			光速搜索
 \Local\WeiDuan\			游戏微端目录
 \雷神压缩\			雷神压缩
+\MagicToolKit\			MagicToolKit
 \MasterPDF\			迅读PDF大师
 \MFileMgr\			M-文件管理器
 \mfmminipage\			M-文件管理器广告组件
@@ -125,6 +126,7 @@
 \MobileEmuMaster\		手机模拟大师
 \MoMiao\			魔喵壁纸
 \MoMiaoNew\			魔喵壁纸
+\mousemenu\			mousemenu
 \MiaoRar\			秒压
 \MiaoRar2\			秒压
 \Microsoft\Windows\Templates\	通杀常见的dllhost.exe启动的计划任务广告程序
