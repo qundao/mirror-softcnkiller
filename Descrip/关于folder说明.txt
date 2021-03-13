@@ -162,6 +162,7 @@
 \Roaming\bzzs\			壁纸助手
 \Roaming\tx\			Roaming目录下的奇客PDF转换器
 \Roaming\Convert\		迅读PDF大师组件
+\RnonWiFi\			小浣熊wifi
 \SaiTaoTao\			赛淘淘购物助手
 \SeagullWallpaper\		海鸥壁纸
 \search616\			文件搜索
