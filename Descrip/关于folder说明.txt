@@ -184,6 +184,7 @@
 \SPWY\				视频无忧
 \SSLocal\			快捷锁屏广告目录
 \StarCloudZip\			星云压缩
+\StarWifi\			StarWifi
 \SuGouShop\			速购助手
 \SWebDrive\			高效搜索相关组件
 \SwiftImage\			蜂鸟看图
