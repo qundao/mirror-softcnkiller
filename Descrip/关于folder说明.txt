@@ -36,6 +36,7 @@
 \DBGHelp\			快捷锁屏相关组件
 \DandelionWifi\			蒲公英wifi
 \DsGameBox\			袋鼠游戏盒子
+\EasyPDF\			EasyPDF
 \ElephantPDF\			大象PDF
 \EsayDrawing\			EsayDrawing
 \eyesprite\			护眼精灵
@@ -139,6 +140,7 @@
 \NiuXiaoQuan\			牛小券
 \OriginPDFReader\		起点PDF阅读器
 \OrangeZip\			OrangeZip
+\PandaPDF\			熊猫PDF
 \PandPdf\			熊猫PDF
 \PDFConverter\			PDF转换器
 \PGYWifi\			蒲公英wifi
