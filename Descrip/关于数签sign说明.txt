@@ -69,6 +69,7 @@ Ningbo Runji Network Technology	¸ßËÙÏÂÔØÆ÷
 ËÄ´¨±È¼ÛÍÃÍøÂç¿Æ¼¼	¿¼À­±ÚÖ½¡¢Å£Ğ¡È¯¡¢¼«Æ·¿´Í¼Íõ¡¢ÖÚÏíÃâ·Ñwifi
 ÉîÛÚÊĞ»Æ¶¹ÅİÅİ¿Æ¼¼	¶¹Ñ¹
 ÉîÛÚÊĞ¿ËÂŞÄ·¿Æ¼¼	fcc001
+ÉîÛÚÊĞÓÅŞÄ¿Æ¼¼		¹ã¸æ³ÌĞò
 ÉîÛÚÊĞÎ¨Áå¿Æ¼¼		°ÙÍ¼Ğã
 ÉîÛÚÊĞÖØ³ÏÔ¶Ë³¿Æ¼¼	¼«¼òÄ£°å
 ÉîÛÚÊĞÏóËş¿Æ¼¼		¼«ËÙä¯ÀÀÆ÷£¨TSBrowser£©
@@ -112,6 +113,7 @@ He Fei Yun Biao					¼«ËÙÊäÈë·¨GsoInput¡¢ÔÆÉÏPDF¡¢ÔÆÉÏÑ¹Ëõ¡¢Ğ¡Ïó¼ÇÊÂ±¾¡¢Ğ¡Ş±×ÀÃæ¡
 Hefei Yunbiao					Í¬ÉÏ¡£	
 Hubei KuKan Technology				¿á¿´¾«Ñ¡±ÚÖ½
 Hubei Yinyue Ecommerce				ÓÅÍÃ¿´Í¼
+Hunan Jiayue Kaitai Electronic Commerce		windows_¼òµ¥ÌìÆø
 IVY (ShenZhen) Software Technology		ChromeCoreä¯ÀÀÆ÷
 J.onaxh Network Technology			Vpings¶¯Ì¬ÊÓÆµ×ÀÃæÈí¼ş¡¢»ğÓ©ÊÓÆµ×ÀÃæ
 Kunshan Longbo Information Technology		¿ì½İËøÆÁ
