@@ -197,7 +197,8 @@
 \TaoShopAssistant\		淘购助手
 \vdesk\				小薇桌面
 \visionmanagersoft\		视力管家
-\vitalwallpaper\			元气壁纸
+\vitalwallpaper\		元气壁纸
+\wADaiPictureToText\		ADaiPictureToText
 \WanMeiZip\			完美压缩
 \WanNengZip\			万能压缩
 \WanPicture\			万能看图王
