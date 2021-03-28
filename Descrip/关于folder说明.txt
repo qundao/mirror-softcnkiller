@@ -39,6 +39,7 @@
 \EasyPDF\			EasyPDF
 \ElephantPDF\			大象PDF
 \EsayDrawing\			EsayDrawing
+\EyesGuardCn\			Eyes保护师
 \eyesprite\			护眼精灵
 \EfficientSearch\		高效搜索
 \EMTree\			简易记事本广告目录
@@ -78,6 +79,7 @@
 \InkImg\			水墨看图
 \IBoFang\			IBoFang
 \iEyePicture\			iEyePicture
+\ImageClip\			切图大师
 \iPDF\				云上PDF
 \ITextEditor\			ITextEditor
 \itv\				i搜影
@@ -162,6 +164,9 @@
 \QWallpaper\			Q版壁纸
 \ReadWell\			好好看书
 \Roaming\bzzs\			壁纸助手
+\Roaming\config\		切图大师相关目录
+\Roaming\cert\			切图大师相关目录
+\Roaming\data\			切图大师相关目录
 \Roaming\tx\			Roaming目录下的奇客PDF转换器
 \Roaming\Convert\		迅读PDF大师组件
 \RnonWiFi\			小浣熊wifi
