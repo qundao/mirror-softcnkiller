@@ -56,7 +56,7 @@ Ningbo Runji Network Technology	高速下载器
 上海永楚网络科技	拷贝兔
 上海合寿弘正会务	万象预览
 上海夜半科技信息技术	大象PDF、LazyWifi、万花动态壁纸、简易PDF（EasyPdf）、蚂蚁压缩（AntZip）
-上海跃客网络科技	ILocalPlayer
+上海跃客网络科技	ILocalPlayer、HermClock、IMagnifier
 上海嘉美诺软件技术中心	芝麻输入法
 上海睦欣网络科技	雷神压缩、小新记事本、鲸彩壁纸、轻捷PDF
 上海顿多网络科技	多顿看图

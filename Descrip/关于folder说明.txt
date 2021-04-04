@@ -69,6 +69,7 @@
 \hylite\			火萤视频桌面
 \HYFastSide\			火萤视频桌面组件
 \Heinote\			小黑记事本
+\HermClock\			HermClock
 \HaloDesktop\			海螺桌面
 \HaoKanWallPaper\		好看壁纸
 \HaoKnWallPaper\		好看壁纸
@@ -80,6 +81,7 @@
 \IBoFang\			IBoFang
 \iEyePicture\			iEyePicture
 \ImageClip\			切图大师
+\IMagnifier\ 			IMagnifier
 \iPDF\				云上PDF
 \ITextEditor\			ITextEditor
 \itv\				i搜影
