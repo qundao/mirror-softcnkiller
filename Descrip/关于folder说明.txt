@@ -36,6 +36,7 @@
 \DBGHelp\			快捷锁屏相关组件
 \DandelionWifi\			蒲公英wifi
 \DsGameBox\			袋鼠游戏盒子
+\EasyClip\			EasyClip
 \EasyPDF\			EasyPDF
 \ElephantPDF\			大象PDF
 \EsayDrawing\			EsayDrawing
