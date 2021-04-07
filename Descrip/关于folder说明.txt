@@ -70,6 +70,7 @@
 \HYFastSide\			火萤视频桌面组件
 \Heinote\			小黑记事本
 \HermClock\			HermClock
+\HermClockEx\			HermClock广告目录
 \HaloDesktop\			海螺桌面
 \HaoKanWallPaper\		好看壁纸
 \HaoKnWallPaper\		好看壁纸
