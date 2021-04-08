@@ -36,7 +36,7 @@ Ningbo Runji Network Technology	高速下载器
 杭州九天网络信息技术	豆麦笔记
 杭州凤侠网络科技	游侠日历
 杭州至流科技		奇客PDF转换器	
-湖北翰辉企业管理咨询	SnowFalling、Juzip定时关机
+湖北翰辉企业管理咨询	SnowFalling、Juzip定时关机（zshut）、ChanelPicture
 黄冈腾瑞网络科技中心	每日壁纸、天天闹钟
 淮安成思科技		熊猫PDF、贝壳压缩、七彩wifi
 海南乐鱼互动网络科技	乐鱼酷搜
@@ -46,6 +46,7 @@ Ningbo Runji Network Technology	高速下载器
 南通百瑞网络科技	即刻看图
 南京友为新网络技术	快搜桌面、快快压缩
 南阳多竹网络科技	简易记事本（ENote）
+上海铎文信息技术	Ms-Zip
 上海果艾网络科技	壁纸助手
 上海游创网络科技	玩游戏盒
 上海展盟网络科技	小黑记事本、小鱼便签、Finder、ABC看图、7654浏览器

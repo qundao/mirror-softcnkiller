@@ -17,6 +17,8 @@
 \ButflyImage\		蝴蝶看图
 \BXAudioConverter\		百讯音频转换器
 \bzzhushou\			壁纸助手
+\Cataclysmic\			Ms-Zip广告目录
+\ChanelPicture\			ChanelPicture
 \ColorfulPicture\		七彩看图
 \ColorfulWiFi\			七彩wifi
 \CubeWallpaper\			魔方壁纸（数签待定）
@@ -129,11 +131,13 @@
 \MGWallpaper\			蘑菇壁纸
 \MicroCool\			微酷PDF
 \MiniInpaint\			水印微管家
+\Minority\			Ms-Zip广告目录
 \MkCool\			微酷PDF
 \MobileEmuMaster\		手机模拟大师
 \MoMiao\			魔喵壁纸
 \MoMiaoNew\			魔喵壁纸
 \mousemenu\			mousemenu
+\Ms-Zip\			Ms-Zip
 \MiaoRar\			秒压
 \MiaoRar2\			秒压
 \Microsoft\Windows\Templates\	通杀常见的dllhost.exe启动的计划任务广告程序
