@@ -31,6 +31,7 @@
 \ConchZip\			贝壳压缩
 \ConhZip\			贝壳压缩
 \DaydayAlarm\			天天闹钟
+\DaydayAlarmEx\			天天闹钟广告目录
 \DDesktopTools\			点点桌面
 \DelphinWiFi\			海豚wifi
 \DMOPELL\			极速搜索相关组件
@@ -79,6 +80,7 @@
 \HaoKnWallPaper\		好看壁纸
 \HaoTuKanKan\			好图看看		
 \HKWallPaper\			好看壁纸
+\HtPlay\			C Player
 \HttpSvrt\			广告程序目录
 \hdwwp\				溜溜壁纸（66壁纸）
 \InkImg\			水墨看图
