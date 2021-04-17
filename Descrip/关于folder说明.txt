@@ -33,6 +33,7 @@
 \DaydayAlarm\			天天闹钟
 \DaydayAlarmEx\			天天闹钟广告目录
 \DDesktopTools\			点点桌面
+\DDPhoto\			多顿看图
 \DelphinWiFi\			海豚wifi
 \DMOPELL\			极速搜索相关组件
 \DouMai\			豆麦笔记
@@ -184,6 +185,7 @@
 \SaiTaoTao\			赛淘淘购物助手
 \SeagullWallpaper\		海鸥壁纸
 \search616\			文件搜索
+\ShanOcr\			ShanOcr
 \SharkPhoto\			鲨鱼看图
 \ShiningZip\			闪压缩
 \SizeAssistant\			小美尺码

@@ -146,7 +146,7 @@ Shanghai Yangtu Baozhen Network Technology	诗词快查（poemDC）
 Shanghai YouXin Media Studio			TTnote、白马PDF
 Shanghai Youwo Information Technology		游窝盒子
 Shanghai Yuesong Information Technology		每天看图
-Shaoxing Yaogang Network Technology		ADaiPictureToText
+Shaoxing Yaogang Network Technology		ADaiPictureToText、ShanOcr
 Sichuan Ouding Software Technology		海螺看图、贝壳wifi、轻压压缩、福利券（FuLiQuan）、袋鼠游戏盒子
 Sichuan Weima Network				优享wifi、青蜂看图、折购助手、元气壁纸
 Sichuan Zhiling Times Network Technology	值购助手、新速压缩、坚果wifi
