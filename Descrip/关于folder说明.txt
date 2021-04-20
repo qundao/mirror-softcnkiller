@@ -52,6 +52,7 @@
 \ExData\			简易记事本组件目录
 \ENote\				简易记事本
 \fastpdf\			云动PDF
+\Fastpic\			极速看图
 \faststart\			FastStart
 \fengchaobizhi\			蜂巢壁纸
 \FileAssistor\			FileAssistor
@@ -125,10 +126,12 @@
 \LazyWifi\			懒人wifi
 \LittlePicture\			迷你看图王
 \Local\finder\			光速搜索
+\Local\minin\			今日热点
 \Local\WeiDuan\			游戏微端目录
 \雷神压缩\			雷神压缩
 \MagicToolKit\			MagicToolKit
 \MasterPDF\			迅读PDF大师
+\MasterPDFData\			迅读PDF大师广告目录
 \MFileMgr\			M-文件管理器
 \mfmminipage\			M-文件管理器广告组件
 \MGWallpaper\			蘑菇壁纸
