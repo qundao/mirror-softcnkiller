@@ -6,6 +6,7 @@
 \6789Zip\			6789压缩
 \AntZip\ 			蚂蚁压缩
 \AppInsghtesly\		广告程序下载目录
+\AppleDrawing\			AppleDrawing
 \Avatder\			风行视频加速器
 \BaimaPdf\			白马PDF
 \baitushow\			百图秀
@@ -72,6 +73,7 @@
 \FYScreenshot\		FYScreenshot
 \GeekZip\			极客压缩
 \GreenZip\			GreenZip
+\GSoInput\			极速输入法目录
 \hylite\			火萤视频桌面
 \HYFastSide\			火萤视频桌面组件
 \Heinote\			小黑记事本
@@ -136,6 +138,7 @@
 \mfmminipage\			M-文件管理器广告组件
 \MGWallpaper\			蘑菇壁纸
 \MicroCool\			微酷PDF
+\MicrosofService\		ENote广告程序目录
 \MiniInpaint\			水印微管家
 \Minority\			Ms-Zip广告目录
 \MkCool\			微酷PDF
@@ -229,6 +232,7 @@
 \WellHost\			好好看书组件
 \WIFIInspector\			洋葱wifi
 \WindowMergecy\			高效搜索组件
+\WinInsignty\			广告程序下载目录
 \WnPDFReader\			万能PDF阅读器
 \WBService\			简易记事本广告目录
 \WorthyShop\			值购助手
