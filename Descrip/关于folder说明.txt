@@ -54,6 +54,7 @@
 \ENote\				简易记事本
 \fastpdf\			云动PDF
 \Fastpic\			极速看图
+\FastSearch\			快速搜索
 \faststart\			FastStart
 \fengchaobizhi\			蜂巢壁纸
 \FileAssistor\			FileAssistor
