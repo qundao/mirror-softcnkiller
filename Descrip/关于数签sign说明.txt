@@ -53,7 +53,7 @@ Ningbo Runji Network Technology	高速下载器
 上海展盟网络科技	小黑记事本、小鱼便签、Finder、ABC看图、7654浏览器
 上海青枣网络科技	好图看看、小象壁纸
 上海广乐网络科技	快压
-上海萌格电子商务	快速软件助手、酷雷压缩、FileAssistor
+上海萌格电子商务	快速软件助手、酷雷压缩、FileAssistor、小白看图
 上海曲合网络科技	趣压、commander、蓝光护眼大师
 上海永楚网络科技	拷贝兔
 上海合寿弘正会务	万象预览
@@ -145,7 +145,7 @@ Shanghai Quhe Network Technology		蓝光护眼大师
 Shanghai Yicen Network Technology		极品PDF转换器
 Shanghai Yingshuang Network Technology		同上海影双网络科技
 Shanghai Yangtu Baozhen Network Technology	诗词快查（poemDC）
-Shanghai YouXin Media Studio			TTnote、白马PDF
+Shanghai YouXin Media Studio			TTnote、白马PDF、flyfish
 Shanghai Youwo Information Technology		游窝盒子
 Shanghai Yuesong Information Technology		每天看图
 Shaoxing Yaogang Network Technology		ADaiPictureToText、ShanOcr

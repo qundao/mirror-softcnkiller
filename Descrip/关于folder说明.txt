@@ -58,6 +58,7 @@
 \fengchaobizhi\			蜂巢壁纸
 \FileAssistor\			FileAssistor
 \FileSearch\			文件搜索
+\flyfish\			flyfish
 \flysvr\			火萤视频桌面组件
 \FlowerShopAssistant\		花购助手
 \fslocal\			极速搜索广告目录
@@ -102,6 +103,7 @@
 \JGBYPC\			激光捕鱼广告	
 \JiJianFormwork\		极简办公模板
 \JiSuSearch\			极速搜索
+\JikePDF2\			即刻PDF
 \JikePDFConverter\		即刻PDF转换器
 \JiKePDFReader\			即刻PDF阅读器
 \JinSPDFReader\			金速PDF阅读器
@@ -237,6 +239,7 @@
 \WBService\			简易记事本广告目录
 \WorthyShop\			值购助手
 \WxOpen\			微信多开盒
+\xbpic\			小白看图
 \xiaoyu\			小鱼便签
 \xinnote\			小新记事本
 \XinSuZip\			新速压缩
