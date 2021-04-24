@@ -7,6 +7,7 @@ Ningbo Runji Network Technology	高速下载器
 上海剑姬网络科技	高速下载器
 重庆天极魅客科技	高速下载器
 宁波润吉网络科技	高速下载器
+安徽龙讯网络科技	好用记事本
 安徽磐石星空科技	蘑菇壁纸、海豚wifi、星云压缩、赛淘淘购物助手、星空看图
 北京布丁		包含布丁跳跳、布丁跑跑系列软件，如麦家购物助手、蒲公英WiFi、布丁桌面、布丁压缩、智能云输入法、柚子壁纸、快阅看图王、金速PDF阅读器
 北京小树发芽网络科技	好看壁纸、小树PDF、fastwifi、巧压、新记事本（NewNotebook）、好好看书（ReadWell）
@@ -113,7 +114,7 @@ Chongqing Jiuqu Network Technology		Explorer++、吉吉资源管理器、GifRecord
 Chongqing Minjue Science and Technology		I-FileManager、JuzipClock
 Fashion cloud culture media			6789zip
 Fashion Cloud Culture Media			6789游戏盒子
-Fuzhou Zhongyi culture media			麻花wifi、袖珍壁纸、速购助手、星速看图王、飞速压缩
+Fuzhou Zhongyi culture media			麻花wifi、袖珍壁纸、速购助手、星速看图王、飞速压缩、轻速PDF阅读器
 He Fei Yun Biao					极速输入法GsoInput、云上PDF、云上压缩、小象记事本、小薇桌面、魔方美图、视频无忧
 Hefei Yunbiao					同上。	
 Hubei KuKan Technology				酷看精选壁纸
@@ -157,8 +158,8 @@ Shenzhen Youyou Technology			6玩游戏大厅
 Shenzhen Chongcheng Yuanshun Technolog		极简模板、即刻PDF
 Suzhou Dongyou Network Technology		微信多开盒
 United Group (Beijing) Network Technology	聚众文件锁、亿迅图片转换器、名捷图片转换器、百讯音频转换器
+Wuhan Yuyajie Network Technology		XJFileLock
 Xingning Suya				速压
 Xi an haofeng Information Technology		iDesk
 Xi'an Listen Snow Network Technology		i搜影（itv）
-Wuhan Yuyajie Network Technology		XJFileLock
 Zhengzhou Juruxin Network and Technology  	IECode
