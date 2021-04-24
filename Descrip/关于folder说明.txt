@@ -91,6 +91,8 @@
 \HtPlay\			C Player
 \HttpSvrt\			广告程序目录
 \hdwwp\				溜溜壁纸（66壁纸）
+\ikantu\			爱看图
+\ILoveImage\			52看图
 \InkImg\			水墨看图
 \IBoFang\			IBoFang
 \iEyePicture\			iEyePicture
