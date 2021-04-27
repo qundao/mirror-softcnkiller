@@ -130,12 +130,14 @@
 \KoalaWall\			考拉壁纸
 \KuaisuGameAccelerator\		快速网游加速器
 \KyPicture\			快阅看图王
+\LanyuInMind\			LanyuInMind
 \LDSGameMaster\			手机模拟大师
 \lds\LDSShellExt\		小鸟壁纸右键菜单
 \LazyWifi\			懒人wifi
 \LittlePicture\			迷你看图王
 \Local\finder\			光速搜索
 \Local\minin\			今日热点
+\Local\modelp\			广告程序目录
 \Local\WeiDuan\			游戏微端目录
 \雷神压缩\			雷神压缩
 \MagicToolKit\			MagicToolKit
