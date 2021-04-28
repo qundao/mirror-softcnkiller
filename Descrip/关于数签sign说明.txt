@@ -147,7 +147,7 @@ Shanghai Quhe Network Technology		蓝光护眼大师
 Shanghai Yicen Network Technology		极品PDF转换器
 Shanghai Yingshuang Network Technology		同上海影双网络科技
 Shanghai Yangtu Baozhen Network Technology	诗词快查（poemDC）
-Shanghai YouXin Media Studio			TTnote、白马PDF、flyfish
+Shanghai YouXin Media Studio			TTnote、白马PDF、flyfish、RNG看图（SpeedImage）
 Shanghai Youwo Information Technology		游窝盒子
 Shanghai Yuesong Information Technology		每天看图
 Shaoxing Yaogang Network Technology		ADaiPictureToText、ShanOcr

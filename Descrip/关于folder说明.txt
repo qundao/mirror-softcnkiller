@@ -211,6 +211,7 @@
 \SmartLook\			万象预览
 \SmartWBInput\			智能云五笔
 \SnowFalling\			SnowFalling
+\speedImage\			RNG看图
 \SpOpen\			windows_简单天气
 \SWebHelp\			极速搜索相关组件
 \ScreenSaver\			快捷锁屏
