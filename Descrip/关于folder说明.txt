@@ -201,6 +201,7 @@
 \SaiTaoTao\			赛淘淘购物助手
 \SeagullWallpaper\		海鸥壁纸
 \search616\			文件搜索
+\ShadowSaver\			ShadowSaver
 \ShanOcr\			ShanOcr
 \SharkPhoto\			鲨鱼看图
 \ShiningZip\			闪压缩
